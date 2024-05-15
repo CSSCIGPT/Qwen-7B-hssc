@@ -26,8 +26,7 @@ model = AutoModelForCausalLM.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained("KM4STfulltext/CSSCIGPT")
 ```
 
-#### 免责声明
-
+## 免责声明
 
 
 - 项目内所涉及任何脚本、LOGO 、工作流仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；请根据情况自行判断，切勿使用项目做任何商业用途或牟利；
